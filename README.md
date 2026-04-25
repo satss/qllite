@@ -1,2 +1,3 @@
 # qllite
-This is just another version of sql lite
+
+This projects walks through how SQL-LITE works
